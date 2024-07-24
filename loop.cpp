@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main()
-{
-    cout <<"Practicing git hub";
+{   
+    cout <<"PRACTICING GIT HUB\n";
     for (int  i = 0; i < 4; i++)
     {
         cout << "Hello world\n";
