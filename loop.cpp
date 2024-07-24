@@ -7,6 +7,6 @@ int main()
     {
         cout << "Hello world\n";
     }
-    
+    cout << "\nC++";
     return 0;
 }
